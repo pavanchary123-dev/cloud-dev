@@ -5,3 +5,4 @@ if number % 2 == 0:
 else:
     print("Odd number")
     print("new change-1")
+    print("2nd changes")
